@@ -1,4 +1,5 @@
 cha 1
+de 1
 hai 2
 haishi 1
 ji 1
